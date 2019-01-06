@@ -1,0 +1,1 @@
+This application can take two .txt files. One file contains names of files that you want to rename, and the other contains files that you want to rename them to. Then the program will rename all the files line for line.
